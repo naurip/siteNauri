@@ -23,7 +23,7 @@
     }
     .profissao {
     background-image: linear-gradient( #000000, #f6f6f6);
-    color: white;
+    color: rgb(245, 11, 11);
     display: flex;
     justify-content: center;
     align-items: center;
